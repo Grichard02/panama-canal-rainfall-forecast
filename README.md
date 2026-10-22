@@ -7,3 +7,4 @@ Utilicé Python para obtener y procesar los datos, realizar análisis explorator
 Para evaluar su desempeño, utilicé métricas como MAE y RMSE y comparé los resultados con un modelo base estacional.
 
 También implementé un procedimiento de pronóstico a varios meses y documenté las limitaciones del modelo, especialmente la incertidumbre asociada a las predicciones de precipitación.
+
